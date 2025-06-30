@@ -31,7 +31,12 @@ This is a simple terminal-based Python chatbot that simulates 10 different types
 
 ## 🚀 Getting Started
 
-### 1. Clone the Repository
+### 1. Install the libraries
+``` cmd:
+pip install secure-smtplib
+```
+### 2. Clone the Repository
 
 ```bash
 https://github.com/Revanthinfosec/Emergency-Chatbot.git
+
